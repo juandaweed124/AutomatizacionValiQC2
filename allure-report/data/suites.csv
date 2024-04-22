@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 03 16:26:18 COT 2024","Wed Apr 03 16:26:23 COT 2024","4619","chromium","pruebaValiQC.spec.ts","","","","Login ValiQC",""
+"broken","Wed Apr 03 16:50:52 COT 2024","Wed Apr 03 16:51:24 COT 2024","31575","chromium","pruebaValiQC.spec.ts","","","","Login ValiQC Demo Emisor",""
